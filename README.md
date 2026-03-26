@@ -40,7 +40,7 @@ Welcome to my GitHub page! I'm a full-stack developer and researcher based in Ho
 
 ## 联系我 📫
 - **Email:** kasperxx1002@outlook.com
-- **Instagram:** [ginsoooooo02]
+- **Instagram:** [ginsoooooo02](https://www.instagram.com/wstarrain1002)
 
 ---
 
